@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_telemetry"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_telemetry"
+path = "src/lib.rs"
